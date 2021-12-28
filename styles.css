@@ -1,0 +1,30 @@
+body{
+    color: rgb(85, 3, 3);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.hedding-container {
+    text-align: center;
+    margin-top: 20px;
+    background-color: burlywood;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 1em;
+    padding: 0.5em;
+    margin: 0 auto;
+    background: lightblue;
+}
+.container{
+    background-color: rgb(182, 193, 201);
+    padding: 1em;
+    border-radius: 1px;
+    width: 300px;
+    margin: auto;
+    gap: 1em;
+}
